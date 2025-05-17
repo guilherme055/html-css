@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(85, 85, 210);
+
+   font-family: Arial, Helvetica, sans-serif;
+
+   font-size: 1em;
+   font-weight: lighter;
+   font-style: italic;
+   text-decoration: underline;
+
+}
